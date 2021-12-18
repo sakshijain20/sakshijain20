@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakshijain20
 - 👀 I’m interested in java programming language and Android development.
-- 🌱 I’m currently learning cloud technology.
+- 🌱 I’m currently learning SpringBoot.
 - 📫 You can contact me through mail.My mail id is : jain.sakshi1099@gmail.com
 
 <!---
